@@ -1,7 +1,9 @@
+import { Button } from '@material-ui/core'
+
 function App() {
   return (
     <div>
-      Hello World
+      <Button>Hello World</Button>
     </div>
   );
 }
